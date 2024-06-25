@@ -1,1 +1,2 @@
 archivo local
+segund alinea remota
