@@ -1,2 +1,2 @@
 archivo local
-agregar line 2 local
+segund alinea remota
